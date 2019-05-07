@@ -1,0 +1,3 @@
+jdbc.url=jdbc:postgresql://localhost:5432/equiti
+database.username=equitiuser
+database.password=normal
